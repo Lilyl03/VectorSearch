@@ -1,0 +1,21 @@
+Query,Rank,Document_ID,Category,Similarity,Document_Preview
+machine learning algorithms,1,Doc01,ML,0.6324555320336758,Machine learning algorithms learn patterns from data without explicit programming
+machine learning algorithms,2,Doc10,Linear Algebra,0.5773502691896256,Vector spaces provide the foundation for many machine learning algorithms
+machine learning algorithms,3,Doc05,ML,0.408248290463863,Reinforcement learning trains agents through rewards and punishments in environments
+machine learning algorithms,4,Doc04,ML,0.35355339059327373,Unsupervised learning finds hidden patterns in unlabeled data
+machine learning algorithms,5,Doc02,ML,0.2886751345948128,Deep learning uses neural networks with multiple layers for complex pattern recognition
+linear algebra vectors,1,Doc08,Linear Algebra,0.35355339059327373,Eigenvalues and eigenvectors are fundamental concepts in linear algebra
+linear algebra vectors,2,Doc06,Linear Algebra,0.3162277660168379,Vectors are mathematical objects with magnitude and direction
+linear algebra vectors,3,Doc07,Linear Algebra,0.2886751345948128,Matrices are rectangular arrays of numbers used in linear transformations
+linear algebra vectors,4,Doc10,Linear Algebra,0.2886751345948128,Vector spaces provide the foundation for many machine learning algorithms
+linear algebra vectors,5,Doc01,ML,0.0,Machine learning algorithms learn patterns from data without explicit programming
+python programming,1,Doc11,Programming,0.5345224838248487,Python is a popular programming language for data science and machine learning
+python programming,2,Doc01,ML,0.3162277660168379,Machine learning algorithms learn patterns from data without explicit programming
+python programming,3,Doc12,Programming,0.3162277660168379,NumPy provides efficient array operations for numerical computing in Python
+python programming,4,Doc14,Programming,0.22360679774997896,Pandas is a data manipulation library for structured data in Python
+python programming,5,Doc02,ML,0.0,Deep learning uses neural networks with multiple layers for complex pattern recognition
+statistics probability,1,Doc19,Statistics,0.816496580927726,Bayesian statistics updates probability estimates as new evidence becomes available
+statistics probability,2,Doc16,Statistics,0.35355339059327373,Probability theory quantifies uncertainty in statistical inference
+statistics probability,3,Doc01,ML,0.0,Machine learning algorithms learn patterns from data without explicit programming
+statistics probability,4,Doc02,ML,0.0,Deep learning uses neural networks with multiple layers for complex pattern recognition
+statistics probability,5,Doc03,ML,0.0,Supervised learning uses labeled datasets to train models with known outputs
